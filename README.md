@@ -21,6 +21,6 @@ part5: features features.py
 The much more details are on my blog: https://blog.csdn.net/giftedpanda/category_9711533.html
 
 
-my bolg: https://blog.csdn.net/giftedpanda
+my blog: https://blog.csdn.net/giftedpanda
 
 my email: 201706060517@sust.edu.cn
